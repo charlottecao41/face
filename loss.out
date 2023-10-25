@@ -1,0 +1,64 @@
+training resnetemb model: 
+train encoder epoch: 0, loss: 0.05101197957992554
+val encoder epoch: 0, loss: 0.05143327340483665, correct: 0.5574324324324325,AUC score 0.5574324324324325
+train encoder epoch: 1, loss: 0.049075912684202194
+val encoder epoch: 1, loss: 0.04871337227523327, correct: 0.5405405405405406,AUC score 0.5405405405405406
+train encoder epoch: 2, loss: 0.04707552120089531
+val encoder epoch: 2, loss: 0.04696766175329685, correct: 0.5422297297297297,AUC score 0.5422297297297297
+train encoder epoch: 3, loss: 0.04502894729375839
+val encoder epoch: 3, loss: 0.04522105418145657, correct: 0.5202702702702703,AUC score 0.5202702702702703
+train encoder epoch: 4, loss: 0.043165743350982666
+val encoder epoch: 4, loss: 0.0434618204832077, correct: 0.5118243243243243,AUC score 0.5118243243243243
+train encoder epoch: 5, loss: 0.04125507175922394
+val encoder epoch: 5, loss: 0.04097956717014313, correct: 0.5033783783783784,AUC score 0.5033783783783784
+train encoder epoch: 6, loss: 0.03941912204027176
+val encoder epoch: 6, loss: 0.03948140554130077, correct: 0.5033783783783784,AUC score 0.5033783783783784
+train encoder epoch: 7, loss: 0.0379069447517395
+val encoder epoch: 7, loss: 0.03799939230084419, correct: 0.5,AUC score 0.5
+train encoder epoch: 8, loss: 0.03632044792175293
+val encoder epoch: 8, loss: 0.03644097372889519, correct: 0.5,AUC score 0.5
+train encoder epoch: 9, loss: 0.03501131385564804
+val encoder epoch: 9, loss: 0.03514968566596508, correct: 0.5,AUC score 0.5
+training vggemb model: 
+train encoder epoch: 0, loss: 0.03540319949388504
+val encoder epoch: 0, loss: 0.03401973694562912, correct: 0.5,AUC score 0.5
+train encoder epoch: 1, loss: 0.03396044671535492
+val encoder epoch: 1, loss: 0.03350813277065754, correct: 0.5016891891891891,AUC score 0.5016891891891891
+train encoder epoch: 2, loss: 0.03347162902355194
+val encoder epoch: 2, loss: 0.033269073069095614, correct: 0.5,AUC score 0.5
+train encoder epoch: 3, loss: 0.03316446393728256
+val encoder epoch: 3, loss: 0.033063603937625884, correct: 0.5,AUC score 0.5
+train encoder epoch: 4, loss: 0.03307625651359558
+val encoder epoch: 4, loss: 0.032768843695521355, correct: 0.5,AUC score 0.5
+train encoder epoch: 5, loss: 0.03298402205109596
+val encoder epoch: 5, loss: 0.03267711885273457, correct: 0.5,AUC score 0.5
+train encoder epoch: 6, loss: 0.03281603008508682
+val encoder epoch: 6, loss: 0.032635855674743655, correct: 0.5,AUC score 0.5
+train encoder epoch: 7, loss: 0.03268636018037796
+val encoder epoch: 7, loss: 0.03269452974200249, correct: 0.5,AUC score 0.5
+train encoder epoch: 8, loss: 0.03261808305978775
+val encoder epoch: 8, loss: 0.03257250189781189, correct: 0.5,AUC score 0.5
+train encoder epoch: 9, loss: 0.03256614878773689
+val encoder epoch: 9, loss: 0.03243830725550652, correct: 0.5,AUC score 0.5
+training squeezeemb model: 
+train encoder epoch: 0, loss: 0.03743172809481621
+val encoder epoch: 0, loss: 0.03620442114770413, correct: 0.5084459459459459,AUC score 0.5084459459459459
+train encoder epoch: 1, loss: 0.03554822877049446
+val encoder epoch: 1, loss: 0.03480353392660618, correct: 0.5033783783783784,AUC score 0.5033783783783784
+train encoder epoch: 2, loss: 0.034872449934482574
+val encoder epoch: 2, loss: 0.03444499522447586, correct: 0.5,AUC score 0.5
+train encoder epoch: 3, loss: 0.0343707911670208
+val encoder epoch: 3, loss: 0.0341435007750988, correct: 0.5033783783783784,AUC score 0.5033783783783784
+train encoder epoch: 4, loss: 0.034121401607990265
+val encoder epoch: 4, loss: 0.034166963025927546, correct: 0.5,AUC score 0.5
+train encoder epoch: 5, loss: 0.03405756503343582
+val encoder epoch: 5, loss: 0.03376164995133877, correct: 0.5,AUC score 0.5
+train encoder epoch: 6, loss: 0.03388776257634163
+val encoder epoch: 6, loss: 0.03380358628928661, correct: 0.5,AUC score 0.5
+train encoder epoch: 7, loss: 0.033730048686265945
+val encoder epoch: 7, loss: 0.0335511077195406, correct: 0.5,AUC score 0.5
+train encoder epoch: 8, loss: 0.033591125160455704
+val encoder epoch: 8, loss: 0.0334700882434845, correct: 0.5,AUC score 0.5
+train encoder epoch: 9, loss: 0.033552706241607666
+val encoder epoch: 9, loss: 0.03343167826533318, correct: 0.5,AUC score 0.5
+Loading models...
